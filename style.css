@@ -45,3 +45,13 @@ font-style:italic;}
     border: 5px solid #3b6cd8;
     border-radius: 10px;
 }
+marquee{
+    color: whitesmoke;
+    font-size: 30px;
+    font-weight: bold;
+    text-decoration-style:wavy;
+    loop: infinite;
+    scrollamount: 10;}
+    
+    
+   
